@@ -39,4 +39,4 @@
 ### C++ 의 객체 지향 특성<br/><br/>
 
 C++ 는 객체 지향 언어로서 객체 지향적인 특성을 가지고 있다.<br/>
-https://github.com/svcbn/STUDY/blob/main/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md
+[객체 지향 프로그래밍이란?](https://github.com/svcbn/STUDY/blob/main/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
