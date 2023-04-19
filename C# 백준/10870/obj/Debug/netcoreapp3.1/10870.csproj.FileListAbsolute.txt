@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\10870\bin\Debug\netcoreapp3.1\10870.exe
+C:\Users\HP\Desktop\C#\10870\bin\Debug\netcoreapp3.1\10870.deps.json
+C:\Users\HP\Desktop\C#\10870\bin\Debug\netcoreapp3.1\10870.runtimeconfig.json
+C:\Users\HP\Desktop\C#\10870\bin\Debug\netcoreapp3.1\10870.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\10870\bin\Debug\netcoreapp3.1\10870.dll
+C:\Users\HP\Desktop\C#\10870\bin\Debug\netcoreapp3.1\10870.pdb
+C:\Users\HP\Desktop\C#\10870\obj\Debug\netcoreapp3.1\10870.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\10870\obj\Debug\netcoreapp3.1\10870.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\10870\obj\Debug\netcoreapp3.1\10870.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\10870\obj\Debug\netcoreapp3.1\10870.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\10870\obj\Debug\netcoreapp3.1\10870.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\10870\obj\Debug\netcoreapp3.1\10870.dll
+C:\Users\HP\Desktop\C#\10870\obj\Debug\netcoreapp3.1\10870.pdb
+C:\Users\HP\Desktop\C#\10870\obj\Debug\netcoreapp3.1\10870.genruntimeconfig.cache

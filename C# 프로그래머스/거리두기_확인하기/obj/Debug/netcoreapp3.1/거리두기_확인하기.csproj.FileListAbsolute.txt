@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\bin\Debug\netcoreapp3.1\거리두기_확인하기.exe
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\bin\Debug\netcoreapp3.1\거리두기_확인하기.deps.json
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\bin\Debug\netcoreapp3.1\거리두기_확인하기.runtimeconfig.json
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\bin\Debug\netcoreapp3.1\거리두기_확인하기.runtimeconfig.dev.json
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\bin\Debug\netcoreapp3.1\거리두기_확인하기.dll
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\bin\Debug\netcoreapp3.1\거리두기_확인하기.pdb
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\obj\Debug\netcoreapp3.1\거리두기_확인하기.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\obj\Debug\netcoreapp3.1\거리두기_확인하기.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\obj\Debug\netcoreapp3.1\거리두기_확인하기.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\obj\Debug\netcoreapp3.1\거리두기_확인하기.AssemblyInfo.cs
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\obj\Debug\netcoreapp3.1\거리두기_확인하기.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\obj\Debug\netcoreapp3.1\거리두기_확인하기.dll
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\obj\Debug\netcoreapp3.1\거리두기_확인하기.pdb
+C:\Users\HP\Desktop\프로그래머스 문제\거리두기_확인하기\obj\Debug\netcoreapp3.1\거리두기_확인하기.genruntimeconfig.cache

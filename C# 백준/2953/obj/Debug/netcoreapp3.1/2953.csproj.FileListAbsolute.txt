@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\2953\bin\Debug\netcoreapp3.1\2953.exe
+C:\Users\HP\Desktop\C#\2953\bin\Debug\netcoreapp3.1\2953.deps.json
+C:\Users\HP\Desktop\C#\2953\bin\Debug\netcoreapp3.1\2953.runtimeconfig.json
+C:\Users\HP\Desktop\C#\2953\bin\Debug\netcoreapp3.1\2953.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\2953\bin\Debug\netcoreapp3.1\2953.dll
+C:\Users\HP\Desktop\C#\2953\bin\Debug\netcoreapp3.1\2953.pdb
+C:\Users\HP\Desktop\C#\2953\obj\Debug\netcoreapp3.1\2953.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\2953\obj\Debug\netcoreapp3.1\2953.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\2953\obj\Debug\netcoreapp3.1\2953.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\2953\obj\Debug\netcoreapp3.1\2953.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\2953\obj\Debug\netcoreapp3.1\2953.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\2953\obj\Debug\netcoreapp3.1\2953.dll
+C:\Users\HP\Desktop\C#\2953\obj\Debug\netcoreapp3.1\2953.pdb
+C:\Users\HP\Desktop\C#\2953\obj\Debug\netcoreapp3.1\2953.genruntimeconfig.cache

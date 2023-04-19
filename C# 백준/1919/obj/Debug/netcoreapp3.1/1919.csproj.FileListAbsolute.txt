@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\1919\bin\Debug\netcoreapp3.1\1919.exe
+C:\Users\HP\Desktop\C#\1919\bin\Debug\netcoreapp3.1\1919.deps.json
+C:\Users\HP\Desktop\C#\1919\bin\Debug\netcoreapp3.1\1919.runtimeconfig.json
+C:\Users\HP\Desktop\C#\1919\bin\Debug\netcoreapp3.1\1919.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\1919\bin\Debug\netcoreapp3.1\1919.dll
+C:\Users\HP\Desktop\C#\1919\bin\Debug\netcoreapp3.1\1919.pdb
+C:\Users\HP\Desktop\C#\1919\obj\Debug\netcoreapp3.1\1919.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\1919\obj\Debug\netcoreapp3.1\1919.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\1919\obj\Debug\netcoreapp3.1\1919.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\1919\obj\Debug\netcoreapp3.1\1919.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\1919\obj\Debug\netcoreapp3.1\1919.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\1919\obj\Debug\netcoreapp3.1\1919.dll
+C:\Users\HP\Desktop\C#\1919\obj\Debug\netcoreapp3.1\1919.pdb
+C:\Users\HP\Desktop\C#\1919\obj\Debug\netcoreapp3.1\1919.genruntimeconfig.cache
