@@ -1,0 +1,15 @@
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\bin\Debug\net7.0\2442.exe
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\bin\Debug\net7.0\2442.deps.json
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\bin\Debug\net7.0\2442.runtimeconfig.json
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\bin\Debug\net7.0\2442.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\bin\Debug\net7.0\2442.pdb
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\obj\Debug\net7.0\2442.csproj.AssemblyReference.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\obj\Debug\net7.0\2442.GeneratedMSBuildEditorConfig.editorconfig
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\obj\Debug\net7.0\2442.AssemblyInfoInputs.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\obj\Debug\net7.0\2442.AssemblyInfo.cs
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\obj\Debug\net7.0\2442.csproj.CoreCompileInputs.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\obj\Debug\net7.0\2442.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\obj\Debug\net7.0\refint\2442.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\obj\Debug\net7.0\2442.pdb
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\obj\Debug\net7.0\2442.genruntimeconfig.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\2442\obj\Debug\net7.0\ref\2442.dll
