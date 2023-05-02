@@ -1,0 +1,15 @@
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\obj\Debug\net7.0\3273.csproj.AssemblyReference.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\obj\Debug\net7.0\3273.GeneratedMSBuildEditorConfig.editorconfig
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\obj\Debug\net7.0\3273.AssemblyInfoInputs.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\obj\Debug\net7.0\3273.AssemblyInfo.cs
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\obj\Debug\net7.0\3273.csproj.CoreCompileInputs.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\bin\Debug\net7.0\3273.exe
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\bin\Debug\net7.0\3273.deps.json
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\bin\Debug\net7.0\3273.runtimeconfig.json
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\bin\Debug\net7.0\3273.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\bin\Debug\net7.0\3273.pdb
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\obj\Debug\net7.0\3273.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\obj\Debug\net7.0\refint\3273.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\obj\Debug\net7.0\3273.pdb
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\obj\Debug\net7.0\3273.genruntimeconfig.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\3273\obj\Debug\net7.0\ref\3273.dll
