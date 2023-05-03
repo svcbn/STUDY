@@ -1,0 +1,15 @@
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\bin\Debug\net7.0\13300.exe
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\bin\Debug\net7.0\13300.deps.json
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\bin\Debug\net7.0\13300.runtimeconfig.json
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\bin\Debug\net7.0\13300.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\bin\Debug\net7.0\13300.pdb
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\obj\Debug\net7.0\13300.csproj.AssemblyReference.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\obj\Debug\net7.0\13300.GeneratedMSBuildEditorConfig.editorconfig
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\obj\Debug\net7.0\13300.AssemblyInfoInputs.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\obj\Debug\net7.0\13300.AssemblyInfo.cs
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\obj\Debug\net7.0\13300.csproj.CoreCompileInputs.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\obj\Debug\net7.0\13300.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\obj\Debug\net7.0\refint\13300.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\obj\Debug\net7.0\13300.pdb
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\obj\Debug\net7.0\13300.genruntimeconfig.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\13300\obj\Debug\net7.0\ref\13300.dll
