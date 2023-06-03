@@ -1,0 +1,15 @@
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\obj\Debug\net7.0\4179.csproj.AssemblyReference.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\obj\Debug\net7.0\4179.GeneratedMSBuildEditorConfig.editorconfig
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\obj\Debug\net7.0\4179.AssemblyInfoInputs.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\obj\Debug\net7.0\4179.AssemblyInfo.cs
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\obj\Debug\net7.0\4179.csproj.CoreCompileInputs.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\bin\Debug\net7.0\4179.exe
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\bin\Debug\net7.0\4179.deps.json
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\bin\Debug\net7.0\4179.runtimeconfig.json
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\bin\Debug\net7.0\4179.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\bin\Debug\net7.0\4179.pdb
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\obj\Debug\net7.0\4179.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\obj\Debug\net7.0\refint\4179.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\obj\Debug\net7.0\4179.pdb
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\obj\Debug\net7.0\4179.genruntimeconfig.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\4179\obj\Debug\net7.0\ref\4179.dll
