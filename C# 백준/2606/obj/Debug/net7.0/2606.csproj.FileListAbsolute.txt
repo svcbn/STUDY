@@ -1,0 +1,15 @@
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\bin\Debug\net7.0\2606.exe
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\bin\Debug\net7.0\2606.deps.json
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\bin\Debug\net7.0\2606.runtimeconfig.json
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\bin\Debug\net7.0\2606.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\bin\Debug\net7.0\2606.pdb
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\obj\Debug\net7.0\2606.csproj.AssemblyReference.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\obj\Debug\net7.0\2606.GeneratedMSBuildEditorConfig.editorconfig
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\obj\Debug\net7.0\2606.AssemblyInfoInputs.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\obj\Debug\net7.0\2606.AssemblyInfo.cs
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\obj\Debug\net7.0\2606.csproj.CoreCompileInputs.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\obj\Debug\net7.0\2606.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\obj\Debug\net7.0\refint\2606.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\obj\Debug\net7.0\2606.pdb
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\obj\Debug\net7.0\2606.genruntimeconfig.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\2606\obj\Debug\net7.0\ref\2606.dll

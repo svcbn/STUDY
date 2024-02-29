@@ -1,0 +1,15 @@
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\bin\Debug\net7.0\9095.exe
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\bin\Debug\net7.0\9095.deps.json
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\bin\Debug\net7.0\9095.runtimeconfig.json
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\bin\Debug\net7.0\9095.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\bin\Debug\net7.0\9095.pdb
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\obj\Debug\net7.0\9095.csproj.AssemblyReference.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\obj\Debug\net7.0\9095.GeneratedMSBuildEditorConfig.editorconfig
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\obj\Debug\net7.0\9095.AssemblyInfoInputs.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\obj\Debug\net7.0\9095.AssemblyInfo.cs
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\obj\Debug\net7.0\9095.csproj.CoreCompileInputs.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\obj\Debug\net7.0\9095.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\obj\Debug\net7.0\refint\9095.dll
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\obj\Debug\net7.0\9095.pdb
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\obj\Debug\net7.0\9095.genruntimeconfig.cache
+D:\나병한\Desktop\Study\STUDY\C# 백준\9095\obj\Debug\net7.0\ref\9095.dll
